@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="sm:col-span-2 md:col-span-1">
           <Image src={logo} alt='logo img-1' />
           <p className="text-sm leading-relaxed mt-5">
-            We have clothes that suit your style and<br /> which you're proud to wear. From <br />women to men.
+            We have clothes that suit your style and<br /> which you &apos; re proud to wear. From <br />women to men.
           </p>
           <div className="mt-16">
             <Image src={Social} alt='Social.png' />
